@@ -1,0 +1,41 @@
+.framer-EunWW .framer-ya9hkn {
+    align-content: center;
+    align-items: center;
+    aspect-ratio: 1.5 / 1;
+    background-color: var(--token-c206656c-e94e-4eaf-8356-81ed5b4c720c, #ffffff);
+    display: flex;
+    flex: none;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 24px;
+    height: var(--framer-aspect-ratio-supported, 800px);
+    justify-content: center;
+    overflow: visible;
+    padding: 24px;
+    position: relative;
+    width: 100%;
+}
+
+.framer-EunWW .framer-1e9ezqr, .framer-EunWW .framer-m3ecfv {
+    align-content: center;
+    align-items: center;
+    display: flex;
+    flex: 1 0 0px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    gap: 24px;
+    height: 100%;
+    justify-content: center;
+    overflow: visible;
+    padding: 0;
+    position: relative;
+    width: 1px;
+}
+
+.framer-EunWW .framer-1k5b593-container, .framer-EunWW .framer-1s7cas0-container, .framer-EunWW .framer-1vlqt5a-container, .framer-EunWW .framer-1gaw5zl-container {
+    flex: none;
+    height: auto;
+    position: relative;
+    transform: perspective(1200px);
+    width: 100%;
+}
